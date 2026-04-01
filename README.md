@@ -2,7 +2,7 @@
   <img src="image/zomoto-img.jpg" width="900"/>
 </p>
 
-<h1 align="center">📊 Zomato Restaurant Analysis (Power BI Project)</h1>
+
 
 # 📊 Zomato Restaurant Analysis (Power BI Project)
 
